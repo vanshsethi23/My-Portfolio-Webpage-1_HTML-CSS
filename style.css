@@ -121,6 +121,15 @@ body {
   margin-left: 10px;
 }
 
+#icons i {
+    pointer-events: auto;
+    user-select: auto;
+}
+
+#icons a:hover i {
+    transform: scale(1.2); /* Example hover effect */
+}
+
 #work {
   height: 66%;
   width: 100%;
