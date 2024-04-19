@@ -19,7 +19,7 @@ This project is a basic portfolio webpage built using HTML and CSS, serving as a
 
 ## Demo
 
-You can view the live demo [here](https://vanshsethi23.github.io/My-Portfolio-Webpage-1_HTML-CSS/).
+You can view the live demo [here](https://vanshsethi23.github.io/My-Portfolio-Webpage_HTML-CSS/).
 
 ## License
 
